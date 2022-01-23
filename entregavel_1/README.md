@@ -11,7 +11,7 @@ consulta que retorne o ganho total da empresa por cliente que é 1.198,77 para o
  <a href="https://drive.google.com/file/d/1lqZZb9WgkyyL7qBZ5ZAPENVYoioK2hMs/view?usp=sharing">snippet de código</a> para criação da base de dados e dos dados exemplos (via SQL Server).
 
 ---
- # Resolução 
+ # Solução
 
  Para o exercício utilizou-se a aplicação web <a href=https://www.http://sqlfiddle.com/>sqlfiddle</a>, foi utilizada a versão MS SQL SERVER 2017, foi necessário uma pequena adaptação no snippet pois a soluçaõ <a href=https://www.http://sqlfiddle.com/>sqlfiddle</a> não permite a criação de databases, foi utlizado somente as criações de tables do snippet citado acima, a [versão utilizada](snippet_web.sql) está anexada à pasta de solução deste entregável.
 
