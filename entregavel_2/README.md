@@ -20,7 +20,7 @@ Vale ressaltar que fora utilizado ***MAC_OS***, o comando shell muda a depender 
 Para criação do ambiente, 
 
 ```console
-python3 -m venv entregavel_2
+python3 -m venv .entregavel_2
 ```
 Para ativação do ambiente:
 
@@ -34,4 +34,7 @@ As instalações dos pacotes foram feitas utilizando ***pip***:
 pip install <pacote>
 ```
 
+A Solução se encontra no [arquivo Jupyter Notebook](Solucao.ipynb) presente na pasta nestra pasta, a saída final está como o esperado 
+
+![image](img/resposta.png)
 
