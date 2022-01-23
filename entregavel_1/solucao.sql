@@ -1,7 +1,7 @@
 with ganho as (
   select t1.contrato_id, 
   cliente_id, 
-  /* foi necessário fazer tratamento na variável percentual_desconto da tabela transacao, 
+  /* foi necessário fazer tratamento para valores nulos na variável percentual_desconto da tabela, 
      também tratar os valores percentuais nas tabelas de transacao e contrato, dividindo os por 100
      Variável abaixo -> valor
   */
