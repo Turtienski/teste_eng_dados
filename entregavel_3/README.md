@@ -11,4 +11,6 @@ Somente é fornecido o [arquivo Json](https://drive.google.com/file/d/1IDCjpDZh5
 ---
 # Solução 
 
-Utilizou-se de jupyter notebook
+A solução se encontra neste [Jupyter notebook](Solucao.ipynb), ao final teremos dois dataframes, resultado da normalização dos dados, os quais respeitam a seguinte relação:
+
+![Image](diagrama_relacional.png)
