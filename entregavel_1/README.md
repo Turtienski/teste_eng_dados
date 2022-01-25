@@ -13,7 +13,7 @@ consulta que retorne o ganho total da empresa por cliente que é 1.198,77 para o
 ---
  # Solução
 
- Para o exercício utilizou-se a aplicação web <a href=https://www.http://sqlfiddle.com/>sqlfiddle</a>, foi utilizada a versão MS SQL SERVER 2017, foi necessário uma pequena adaptação no snippet pois a soluçaõ <a href=https://www.http://sqlfiddle.com/>sqlfiddle</a> não permite a criação de databases, foi utlizado somente as criações de tables do snippet citado acima, a [versão utilizada](snippet_web.sql) está anexada à pasta de solução deste entregável.
+ Para o exercício utilizou-se a aplicação web <a href=http://sqlfiddle.com/>sqlfiddle</a>, foi utilizada a versão MS SQL SERVER 2017, foi necessário uma pequena adaptação no snippet pois a soluçaõ <a href=https://www.http://sqlfiddle.com/>sqlfiddle</a> não permite a criação de databases, foi utlizado somente as criações de tables do snippet citado acima, a [versão utilizada](snippet_web.sql) está anexada à pasta de solução deste entregável.
 
 Conforme exposto em <a href="https://drive.google.com/file/d/1KJ9SvkcRX94YQDyKI01ivG-5N3lZp3T1/view?usp=sharing">Figura 2</a>, a [query de solução](solucao.sql) resulta em (vide comentários nesta query sobre os tratamentos necessário para chegar ao valor esperado):
 
@@ -22,8 +22,8 @@ Conforme exposto em <a href="https://drive.google.com/file/d/1KJ9SvkcRX94YQDyKI0
 | Cliente A    | 1198.77 |
 | Cliente D    | 1.08    |
 
+#### Resultado 
 
-
-
+![image](screenshot.png)
 
  
